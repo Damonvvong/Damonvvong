@@ -7,6 +7,6 @@ My name is Damonwong, an iOS software engineer at [Alibaba Group](https://www.al
 - 👯 I’m looking to developer on join us working for [Alibaba Group](https://talent.alibaba.com/off-campus/)
 - 🤔 I’m looking for help with contributors for [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)
 - 💬 Ask me about iOS development
-- 📫 How to reach me: [weibo@Damonwong](https://weibo.com/damonone)
+- 📫 How to reach me: [weibo@damonwong](https://weibo.com/damonone)
 - 😄 Pronouns: He
 - ⚡ Fun fact: There is nothing more fun than coding (\#\^.\^\#)
