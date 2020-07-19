@@ -10,3 +10,5 @@ My name is Damonwong, an iOS software engineer at [Alibaba Group](https://www.al
 - 📫 How to reach me: [weibo@damonwong](https://weibo.com/damonone)
 - 😄 Pronouns: He
 - ⚡ Fun fact: There is nothing more fun than coding (\#\^.\^\#)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Damonvvong&show_icons=true" alt="Damonvvong's Github Stats" />
